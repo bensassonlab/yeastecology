@@ -1,0 +1,33 @@
+\begin{tabular}{lllllp{8cm}} \hline
+Region\footnote & Host & Samples & Sites & Strains & Species \\ \hline
+North & Oak & 372\footnote & 9 & 39 & \textit{Saccharomyces paradoxus}\\ 
+ &  &  &  & 16 & \textit{Lachancea thermotolerans}\\ 
+ &  &  &  & 11 & \textit{Wickerhamomyces anomalus}\\ 
+ &  &  &  & 3 & \textit{Candida albicans}\\ 
+ &  &  &  & 2 & \textit{Hanseniaspora osmophila}\\ 
+ &  &  &  & 2 & \textit{Hyphopichia burtonii}\\ 
+ &  &  &  & 2 & \textit{Saccharomycetaceae sp.}\\ 
+ &  &  &  & 2 & \textit{Saccharomycodes ludwigii}\\ 
+ &  &  &  & 1 & 7 different \textit{Saccharomycetales} species\\
+South & Oak & 261 & 4 & 46 & \textit{Lachancea thermotolerans}\\ 
+ &  &  &  & 44 & \textit{Saccharomyces paradoxus}\\ 
+ &  &  &  & 4 & \textit{Pichia manshurica}\\ 
+ &  &  &  & 3 & \textit{Saccharomyces cerevisiae}\\ 
+ &  &  &  & 2 & \textit{Kluyveromyces lactis}\\ 
+ &  &  &  & 2 & \textit{Meyerozyma sp.}\\ 
+ &  &  &  & 1 & 3 different \textit{Saccharomycetales} species\\
+North & Grape & 57\footnote & 2 & 19 & \textit{Saccharomyces cerevisiae}\\ 
+ &  &  &  & 8 & \textit{Wickerhamomyces anomalus}\\ 
+ &  &  &  & 2 & \textit{Dekkera bruxellensis}\\ 
+ &  &  &  & 2 & \textit{Saccharomyces paradoxus}\\ 
+ &  &  &  & 1 & 4 different \textit{Saccharomycetales} species\\
+South & Grape & 29 & 2 & 4 & \textit{Starmerella bacillaris}\\ 
+ &  &  &  & 1 & 4 different \textit{Saccharomycetales} species\\
+South & Fig & 93\footnote & 4 & 8 & \textit{Meyerozyma sp.}\\ 
+ &  &  &  & 6 & \textit{Saccharomyces cerevisiae}\\ 
+ &  &  &  & 5 & \textit{Zygosaccharomyces bailii}\\ 
+ &  &  &  & 4 & \textit{Saccharomyces sp.}\\ 
+ &  &  &  & 3 & \textit{Pichia kudriavzevii}\\ 
+ &  &  &  & 3 & \textit{Starmerella bacillaris}\\ 
+ &  &  &  & 1 & 4 different \textit{Saccharomycetales} species\\ \hline
+\end{tabular}
