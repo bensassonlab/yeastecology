@@ -1,0 +1,264 @@
+% number of samples in presabsdata.tsv
+\newcommand{\samplecount}{812}
+% number of trees in presabsdata.tsv
+\newcommand{\treecount}{126}
+% number of fig samples with substrate=bark in presabsdata.tsv
+\newcommand{\figbark}{9}
+% number of fig samples with substrate=fig in presabsdata.tsv
+\newcommand{\figfig}{84}
+% number of grape samples with substrate=grape in presabsdata.tsv
+\newcommand{\grapegrape}{53}
+% number of grape samples with substrate=bark in presabsdata.tsv
+\newcommand{\grapebark}{21}
+% number of grape samples with substrate=must in presabsdata.tsv
+\newcommand{\must}{12}
+% number of oak samples with substrate=bark in presabsdata.tsv
+\newcommand{\oakbark}{618}
+% number of oak samples with substrate=soil in presabsdata.tsv
+\newcommand{\soil}{15}
+% total number of oak samples (soil + bark) in presabsdata.tsv
+\newcommand{\oak}{633}
+% number of oak samples with substrate=bark + isolationTemp=10 in presabsdata.tsv
+\newcommand{\oakbarkten}{14}
+% number of grape samples with substrate=must + isolationTemp=10 in presabsdata.tsv
+\newcommand{\mustten}{2}
+% number of isolationTemp=10 in presabsdata.tsv:
+\newcommand{\sampleten}{16}
+% number of isolationTemp=25 in presabsdata.tsv:
+\newcommand{\sampletwentyfive}{18}
+% number of oak samples with substrate=bark + isolationTemp!=10 in presabsdata.tsv
+\newcommand{\oakbarknotten}{604}
+% number of Spar from oak samples with substrate=bark + isolationTemp!=10 in presabsdata.tsv
+\newcommand{\sparnotten}{78}
+% number of yeast (Spar,Scer or otherITS) in South Oak in presabsdata.tsv
+\newcommand{\yNorthOak}{84}
+% number of yeast (Spar,Scer or otherITS) in South Oak in presabsdata.tsv
+\newcommand{\ySouthOak}{104}
+% number of Wa yeast (Spar,Scer or otherITS) in North Oak in presabsdata.tsv
+\newcommand{\WaNorthOak}{11}
+% number of Wa yeast (Spar,Scer or otherITS) in South Oak in presabsdata.tsv
+\newcommand{\WaSouthOak}{0}
+% number of Lt yeast (Spar,Scer or otherITS) in North Oak in presabsdata.tsv
+\newcommand{\LtNorthOak}{16}
+% number of Lt yeast (Spar,Scer or otherITS) in South Oak in presabsdata.tsv
+\newcommand{\LtSouthOak}{46}
+% number of spar yeast on Oak in presabsdata.tsv
+\newcommand{\sparoak}{83}
+% number of scer yeast on Oak in presabsdata.tsv
+\newcommand{\sceroak}{4}
+% number of fruit samples in presabsdata.tsv
+\newcommand{\fruit}{179}
+% number of scer yeast on Fruit in presabsdata.tsv
+\newcommand{\scerfruit}{25}
+% number of oak samples in the UK (north) in presabsdata.tsv
+\newcommand{\northoaksamples}{372}
+% number of spar yeast on northern Oaks in presabsdata.tsv:
+\newcommand{\sparnorthoak}{39}
+% number of spar yeast on northern Oaks in presabsdata.tsv:
+\newcommand{\scernorthoak}{1}
+% percentage of northern Oak samples with spar yeast in presabsdata.tsv:
+\newcommand{\sparnorthoakrate}{10}
+% number of strains unambiguosly assigned without "sp." (counting each species only once per sample)
+\newcommand{\unambiguousSp}{247}
+% number of strains ambiguosly assigned with "sp." (counting each species only once per sample)
+\newcommand{\ambiguousSp}{17}
+% number of different species (excluding " sp.")
+\newcommand{\speciescount}{26}
+% number of oaks with missing data excluding UEA in presabsdata.tsv
+\newcommand{\coppiced}{20}
+% number of oaks excluded from PYR in presabsdata.tsv
+\newcommand{\pyrcop}{9}
+% number of oaks from PYR in presabsdata.tsv
+\newcommand{\pyr}{15}
+% number of trees in oakbarkdata with circum data, which are therefore in circum_figure
+\newcommand{\circumtreecount}{104}
+% number of trees witout circum data, which are therefore grey in circum_figure
+\newcommand{\missingcircum}{22}
+% number of yeast (Spar,Scer or otherITS) in presabsdata.tsv
+\newcommand{\yeast}{264}
+% Fisher's Exact Test on north oak data show similar Spar isolation rate to Johnson et al
+\newcommand{\fisherjohnson}{0.3}
+% Fisher's Exact Test on north oak data show similar Spar isolation rate to Sniegowski et al
+\newcommand{\fishersniegowski}{1}
+% Fisher's Exact Test on north oak data show similar Spar isolation rate to Sniegowski et al
+\newcommand{\fishercersniegowski}{2\times10^{-7}}
+% number of yeast on northern oak bark:
+\newcommand{\nyeast}{84}
+% number of yeast on southern oak bark:
+\newcommand{\syeast}{104}
+% number of samples from southern oak bark:
+\newcommand{\southoaksamples}{261}
+% Fisher's Exact Test on all oak data showing more yeast in the South
+\newcommand{\fisherA}{4\times10^{-6}}
+% Fisher's Exact Test on similar oak data showing more yeast in the South
+\newcommand{\fisherB}{0.007}
+% Wilcoxon rank sum test shows bark at 0.5-1 are similar in North and South
+\newcommand{\wilcoxA}{0.7}
+% Median temperature in the north
+\newcommand{\mediannorthtemp}{21.3}
+% Median temperature in the south
+\newcommand{\mediansouthtemp}{28.6}
+% Lower quartile circum
+\newcommand{\circumlq}{0.8}
+% Median circum
+\newcommand{\circummd}{1.3}
+% Upper quartile circum
+\newcommand{\circumuq}{1.9}
+% Number of grape samples from vineyards only
+\newcommand{\vineyardgrape}{24}
+% percent of vine bark samples with Sc
+\newcommand{\scvinebarkpcent}{29}
+% percent of grape samples with Sc
+\newcommand{\scgrapepcent}{21}
+% percent of must samples with Sc
+\newcommand{\scmustpcent}{67}
+% p value for Fisher's exact test for grape vs bark
+\newcommand{\fishergrapebark}{0.7}
+% p value for Fisher's exact test for grape vs must
+\newcommand{\fishergrapemust}{0.01}
+% Number of fig bark samples with Sc
+\newcommand{\scfigbark}{1}
+% percent of fig bark samples with Sc
+\newcommand{\scfigbarkpcent}{11}
+% Number of fig fruit samples with Sc
+\newcommand{\scfigfig}{5}
+% percent of fig fig samples with Sc
+\newcommand{\scfigfigpcent}{6}
+% p value for Fisher's exact test for fig vs fig bark
+\newcommand{\fisherfigbark}{0.5}
+% Number of vineyard oak bark samples
+\newcommand{\vineyardoakbark}{4}
+% percent of fig bark samples with Sc
+\newcommand{\scvineyardoakbarkpcent}{25}
+% Number of oak trees visited more than once
+\newcommand{\repeatedtrees}{28}
+% Fisher's Exact Test shows higher L. thermotolerans isolation freq in south
+\newcommand{\fisherlt}{4\times10^{-8}}
+% Fisher's Exact Test shows higher W. anomalus isolation freq in north
+\newcommand{\fisherwa}{0.004}
+% Number of trees that were samples 4 times:
+\newcommand{\treessampledfourtimes}{87}
+% effect of all otherFreq df
+\newcommand{\otherfreqdf}{1}
+% effect of all otherFreq dev
+\newcommand{\otherfreqdev}{-0.02}
+% effect of all otherFreq P
+\newcommand{\otherfreqp}{0.9}
+% effect of oaktype to noso df
+\newcommand{\oaktypedf}{3}
+% effect of oaktype to noso % dev
+\newcommand{\oaktypedev}{-2}
+% effect of oaktype to noso P
+\newcommand{\oaktypep}{0.4}
+% effect of dropping circum from model df
+\newcommand{\nocircumdf}{2}
+% effect of dropping circum from model % dev
+\newcommand{\nocircumdev}{-21}
+% effect of dropping circum from model P
+\newcommand{\nocircump}{1\times10^{-6}}
+% effect of circum:noso df
+\newcommand{\circumnosodf}{1}
+% effect of circum:noso p value
+\newcommand{\circumnosop}{0.004}
+% %deviance for effect of circum:noso in circum + site model
+\newcommand{\circumnosopcentdev}{-6}
+% residual deviance for final model
+\newcommand{\finalrdev}{75}
+% residual df for final model
+\newcommand{\finalrdf}{98}
+% AER dispersion test of final model
+\newcommand{\dispersp}{1e+02}
+% %deviance for final model
+\newcommand{\finalpcentdev}{42}
+% effect of dropping noso df
+\newcommand{\nosodf}{3}
+% effect of dropping noso p value
+\newcommand{\nosop}{4\times10^{-10}}
+% %deviance decreased by dropping noso from model
+\newcommand{\nosopcentdev}{36}
+% effect of dropping maxtemp:noso from model df
+\newcommand{\maxtempnosodf}{1}
+% effect of dropping maxtemp:noso from model % dev
+\newcommand{\maxtempnosodev}{9}
+% effect of dropping maxtemp:noso from model P
+\newcommand{\maxtempnosop}{0.0006}
+% effect of weight df
+\newcommand{\weightdf}{1}
+% effect of weight p value
+\newcommand{\weightp}{0.8}
+% %deviance for weight effect
+\newcommand{\weightpcentdev}{0.01}
+% effect of month df
+\newcommand{\monthdf}{4}
+% effect of month p value
+\newcommand{\monthp}{0.1}
+% %deviance for month effect
+\newcommand{\monthpcentdev}{1}
+% effect of tree df
+\newcommand{\treedf}{125}
+% effect of tree p value
+\newcommand{\treep}{2\times10^{-9}}
+% %deviance for tree effect
+\newcommand{\treepcentdev}{52}
+% Control. Dropped 1 southern site at a time. Highest P value seen
+\newcommand{\maxcontrolp}{0.04}
+% Sp strains in manystudiesTmax.tsv:
+\newcommand{\parinms}{246}
+% Sp within expected Tmax (18-31):
+\newcommand{\partmaxok}{244}
+% Sp strains associated with animals:
+\newcommand{\paranimal}{8}
+% lower temp of 75% confidence interval:
+\newcommand{\parseventyfivel}{22}
+% upper temp of 75% confidence interval:
+\newcommand{\parseventyfiveu}{28}
+% lower temp of 95% confidence interval:
+\newcommand{\parninetyfivel}{20}
+% upper temp of 95% confidence interval:
+\newcommand{\parninetyfiveu}{30}
+% Sc strains in manystudiesTmax.tsv:
+\newcommand{\cerinms}{301}
+% how many Sc strains (all genotypes) within range?:
+\newcommand{\cerok}{222}
+% how many Sc sites?:
+\newcommand{\cersites}{92}
+% how many Sc sites within range?:
+\newcommand{\cersitesok}{71}
+% how many European Sc sites outside range?:
+\newcommand{\cereusitesnotok}{10}
+% how many Sc sites outside range?:
+\newcommand{\cersitesnotok}{21}
+% all Sc strains in Europe:
+\newcommand{\allcerineu}{46}
+% wild Sc strains in Europe:
+\newcommand{\cerineu}{26}
+% human-associated Sc strains in Europe:
+\newcommand{\hscerineu}{20}
+% human-associated Sc strains worldwide:
+\newcommand{\cerhs}{122}
+% human-associated Sc strains worldwide within range:
+\newcommand{\cerhsok}{84}
+% human-associated Sc strains worldwide outside range:
+\newcommand{\cerhsnotok}{38}
+% wild Sc strains in Europe with expected Tmax:
+\newcommand{\cerineutmaxok}{23}
+% wild Sc strains in China with unexpected Tmax:
+\newcommand{\cerinchntmaxnotok}{29}
+% wild Sc strains Worldwide:
+\newcommand{\wwcer}{179}
+% wild Sc strains Worldwide expected Tmax:
+\newcommand{\wwcerok}{138}
+% wild Sc strains Worldwide outside expected Tmax:
+\newcommand{\wwcernotok}{41}
+% wild Sc strains Worldwide outside expected Tmax - 1:
+\newcommand{\wwcernotokone}{40}
+% number of Sc sites Worldwide - 1 :
+\newcommand{\wwsitesok}{50}
+% feral Sc over 20 km from range :
+\newcommand{\feralovertwenty}{36}
+% wild Sc are closer to range - Wilcoxon test :
+\newcommand{\wilcoxp}{9\times10^{-14}}
+% wild Sc exceptions median distance :
+\newcommand{\medianwild}{1}
+% Number of strains in the FigureS1 of China
+\newcommand{\suppfigstrains}{81}
