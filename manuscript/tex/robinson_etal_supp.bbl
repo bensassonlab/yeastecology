@@ -1,0 +1,132 @@
+\begin{thebibliography}{16}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Bensasson(2011)}]{bensasson_evidence_2011}
+Bensasson, D. (2011).
+\newblock \enquote{Evidence for a high mutation rate at rapidly evolving yeast
+  centromeres.}
+\newblock \emph{BMC Evol Biol}, \textbf{11}: 211.
+
+\bibitem[{Charron \emph{et~al.}(2014)Charron, Leducq
+  \emph{et~al.}}]{charron_exploring_2014}
+Charron, G., Leducq, J.B., Bertin, C., Dub{\'e}, A.K., and Landry, C.R. (2014).
+\newblock \enquote{Exploring the northern limit of the distribution of
+  \textit{{Saccharomyces} cerevisiae} and \textit{{Saccharomyces} paradoxus} in
+  {North} {America}.}
+\newblock \emph{FEMS yeast research}, \textbf{14}(2): 281--288.
+
+\bibitem[{Crawley(2005)}]{crawley_statistics:_2005}
+Crawley, M.J. (2005).
+\newblock \emph{Statistics: {An} {Introduction} {Using} {R}}.
+\newblock Wiley-Blackwell, Chichester, West Sussex, England, 1 edition edition.
+\newblock ISBN 978-0-470-02298-6.
+
+\bibitem[{Johnson \emph{et~al.}(2004)Johnson, Koufopanou
+  \emph{et~al.}}]{johnson_population_2004}
+Johnson, L.J., Koufopanou, V., Goddard, M.R., Hetherington, R., Schafer, S.M.,
+  and Burt, A. (2004).
+\newblock \enquote{Population {Genetics} of the {Wild} {Yeast}
+  \textit{{Saccharomyces} paradoxus}.}
+\newblock \emph{Genetics}, \textbf{166}(1): 43--52.
+
+\bibitem[{Kuehne \emph{et~al.}(2007)Kuehne, Murphy
+  \emph{et~al.}}]{kuehne_allopatric_2007}
+Kuehne, H.A., Murphy, H.A., Francis, C.A., and Sniegowski, P.D. (2007).
+\newblock \enquote{Allopatric divergence, secondary contact, and genetic
+  isolation in wild yeast populations.}
+\newblock \emph{Curr Biol}, \textbf{17}(5): 407--11.
+
+\bibitem[{Lachance \emph{et~al.}(2011)Lachance, Boekhout
+  \emph{et~al.}}]{lachance_chapter_2011-5}
+Lachance, M.A., Boekhout, T., Scorzetti, G., Fell, J.W., and Kurtzman, C.P.
+  (2011).
+\newblock \enquote{Chapter 90 - \textit{{Candida}} {Berkhout} (1923).}
+\newblock In C.P.K.W.F. Boekhout, editor, \enquote{The {Yeasts} ({Fifth}
+  {Edition}),} pages 987--1278. Elsevier, London.
+\newblock ISBN 978-0-444-52149-1.
+
+\bibitem[{Leducq \emph{et~al.}(2014)Leducq, Charron
+  \emph{et~al.}}]{leducq_local_2014}
+Leducq, J.B., Charron, G., Samani, P., Dub{\'e}, A.K., Sylvester, K., James,
+  B., Almeida, P., Sampaio, J.P., Hittinger, C.T., Bell, G., and Landry, C.R.
+  (2014).
+\newblock \enquote{Local climatic adaptation in a widespread microorganism.}
+\newblock \emph{Proceedings of the Royal Society B: Biological Sciences},
+  \textbf{281}(1777): 20132472.
+
+\bibitem[{Leducq \emph{et~al.}(2015)Leducq, Nielly-Thibault
+  \emph{et~al.}}]{leducq_speciation_2015}
+Leducq, J.B., Nielly-Thibault, L., Charron, G., Eberlein, C., Verta, J.P.,
+  Samani, P., Sylvester, K., Hittinger, C.T., Bell, G., and Landry, C.R.
+  (2015).
+\newblock \enquote{Speciation driven by hybridization and chromosomal
+  plasticity in a wild yeast.}
+\newblock \emph{bioRxiv}, page 027383.
+
+\bibitem[{Liti \emph{et~al.}(2009)Liti, Carter
+  \emph{et~al.}}]{liti_population_2009}
+Liti, G., Carter, D.M., Moses, A.M., Warringer, J., Parts, L., James, S.A.,
+  Davey, R.P., Roberts, I.N., Burt, A., Koufopanou, V., Tsai, I.J., Bergman,
+  C.M., Bensasson, D., O/'Kelly, M.J.T., van Oudenaarden, A., Barton, D.B.H.,
+  Bailes, E., Nguyen, A.N., Jones, M., Quail, M.A., \emph{et~al.} (2009).
+\newblock \enquote{Population genomics of domestic and wild yeasts.}
+\newblock \emph{Nature}, \textbf{458}(7236): 337--341.
+
+\bibitem[{Maganti \emph{et~al.}(2011)Maganti, Bartfai
+  \emph{et~al.}}]{maganti_ecological_2011}
+Maganti, H., Bartfai, D., and Xu, J. (2011).
+\newblock \enquote{Ecological structuring of yeasts associated with trees
+  around {Hamilton}, {Ontario}, {Canada}.}
+\newblock \emph{FEMS yeast research}, \textbf{12}: 9--19.
+
+\bibitem[{Salvad{\'o} \emph{et~al.}(2011)Salvad{\'o}, Arroyo-L{\'o}pez
+  \emph{et~al.}}]{salvado_temperature_2011}
+Salvad{\'o}, Z., Arroyo-L{\'o}pez, F.N., Guillam{\'o}n, J.M., Salazar, G.,
+  Querol, A., and Barrio, E. (2011).
+\newblock \enquote{Temperature {Adaptation} {Markedly} {Determines} {Evolution}
+  within the {Genus} \textit{{Saccharomyces}}.}
+\newblock \emph{Applied and Environmental Microbiology}, \textbf{77}(7):
+  2292--2302.
+
+\bibitem[{Sweeney \emph{et~al.}(2004)Sweeney, Kuehne
+  \emph{et~al.}}]{sweeney_sympatric_2004}
+Sweeney, J.Y., Kuehne, H.A., and Sniegowski, P.D. (2004).
+\newblock \enquote{Sympatric natural \textit{{Saccharomyces} cerevisiae} and
+  \textit{{S}. paradoxus} populations have different thermal growth profiles.}
+\newblock \emph{FEMS Yeast Research}, \textbf{4}(4-5): 521--525.
+
+\bibitem[{Sylvester \emph{et~al.}(2015)Sylvester, Wang
+  \emph{et~al.}}]{sylvester_temperature_2015}
+Sylvester, K., Wang, Q.M., James, B., Mendez, R., Hulfachor, A.B., and
+  Hittinger, C.T. (2015).
+\newblock \enquote{Temperature and host preferences drive the diversification
+  of {Saccharomyces} and other yeasts: a survey and the discovery of eight new
+  yeast species.}
+\newblock \emph{FEMS yeast research}, \textbf{15}(3): fov002.
+
+\bibitem[{Tanghe \emph{et~al.}(2005)Tanghe, Carbrey
+  \emph{et~al.}}]{tanghe_aquaporin_2005}
+Tanghe, A., Carbrey, J.M., Agre, P., Thevelein, J.M., and Van~Dijck, P. (2005).
+\newblock \enquote{Aquaporin expression and freeze tolerance in
+  \textit{{Candida} albicans}.}
+\newblock \emph{Applied and Environmental Microbiology}, \textbf{71}(10):
+  6434--6437.
+
+\bibitem[{Venables and Ripley(2002)}]{venables_modern_2002}
+Venables, W. and Ripley, B. (2002).
+\newblock \emph{Modern {Applied} {Statistics} with {S}}, volume 4th.
+\newblock Springer, New York.
+
+\bibitem[{Wang \emph{et~al.}(2012)Wang, Liu
+  \emph{et~al.}}]{wang_surprisingly_2012}
+Wang, Q.M., Liu, W.Q., Liti, G., Wang, S.A., and Bai, F.Y. (2012).
+\newblock \enquote{Surprisingly diverged populations of \textit{{Saccharomyces}
+  cerevisiae} in natural environments remote from human activity.}
+\newblock \emph{Molecular Ecology}, \textbf{21}(22): 5404--5417.
+
+\end{thebibliography}

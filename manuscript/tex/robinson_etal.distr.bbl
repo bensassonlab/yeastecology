@@ -1,0 +1,401 @@
+\begin{thebibliography}{53}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Almeida \emph{et~al.}(2015)Almeida, Barbosa
+  \emph{et~al.}}]{almeida_population_2015}
+Almeida, P., Barbosa, R., Zalar, P., Imanishi, Y., Shimizu, K., Turchetti, B.,
+  Legras, J.L., Serra, M., Dequin, S., Couloux, A., Guy, J., Bensasson, D.,
+  Gon{\c c}alves, P., and Sampaio, J.P. (2015).
+\newblock \enquote{A population genomics insight into the {Mediterranean}
+  origins of wine yeast domestication.}
+\newblock \emph{Molecular Ecology}, page Early View.
+
+\bibitem[{Ara{\'u}jo and Peterson(2012)}]{araujo_uses_2012}
+Ara{\'u}jo, M.B. and Peterson, A.T. (2012).
+\newblock \enquote{Uses and misuses of bioclimatic envelope modeling.}
+\newblock \emph{Ecology}, \textbf{93}(7): 1527--1539.
+
+\bibitem[{Bardgett(2005)}]{bardgett_biology_2005}
+Bardgett, R. (2005).
+\newblock \emph{The {Biology} of {Soil}: {A} {Community} and {Ecosystem}
+  {Approach}}.
+\newblock OUP Oxford.
+\newblock ISBN 978-0-19-852503-5.
+
+\bibitem[{Bardgett \emph{et~al.}(2005)Bardgett, Bowman
+  \emph{et~al.}}]{bardgett_temporal_2005}
+Bardgett, R.D., Bowman, W.D., Kaufmann, R., and Schmidt, S.K. (2005).
+\newblock \enquote{A temporal approach to linking aboveground and belowground
+  ecology.}
+\newblock \emph{Trends in Ecology \& Evolution}, \textbf{20}(11): 634--641.
+
+\bibitem[{Bensasson(2011)}]{bensasson_evidence_2011}
+Bensasson, D. (2011).
+\newblock \enquote{Evidence for a high mutation rate at rapidly evolving yeast
+  centromeres.}
+\newblock \emph{BMC Evol Biol}, \textbf{11}: 211.
+
+\bibitem[{Bensasson \emph{et~al.}(2008)Bensasson, Zarowiecki
+  \emph{et~al.}}]{bensasson_rapid_2008}
+Bensasson, D., Zarowiecki, M., Burt, A., and Koufopanou, V. (2008).
+\newblock \enquote{Rapid evolution of yeast centromeres in the absence of
+  drive.}
+\newblock \emph{Genetics}, \textbf{178}(4): 2161--2167.
+
+\bibitem[{Bonfield \emph{et~al.}(1995)Bonfield, Smith
+  \emph{et~al.}}]{bonfield_new_1995}
+Bonfield, J.K., Smith, K.F., and Staden, R. (1995).
+\newblock \enquote{A new {DNA} sequence assembly program.}
+\newblock \emph{Nucleic acids research}, \textbf{23}(24): 4992--4999.
+
+\bibitem[{Boynton and Greig(2014)}]{boynton_ecology_2014}
+Boynton, P.J. and Greig, D. (2014).
+\newblock \enquote{The ecology and evolution of non-domesticated
+  \textit{{Saccharomyces}} species.}
+\newblock \emph{Yeast}, \textbf{31}(12): 449--462.
+
+\bibitem[{Charron \emph{et~al.}(2014)Charron, Leducq
+  \emph{et~al.}}]{charron_exploring_2014}
+Charron, G., Leducq, J.B., Bertin, C., Dub{\'e}, A.K., and Landry, C.R. (2014).
+\newblock \enquote{Exploring the northern limit of the distribution of
+  \textit{{Saccharomyces} cerevisiae} and \textit{{Saccharomyces} paradoxus} in
+  {North} {America}.}
+\newblock \emph{FEMS yeast research}, \textbf{14}(2): 281--288.
+
+\bibitem[{Crawley(2005)}]{crawley_statistics:_2005}
+Crawley, M.J. (2005).
+\newblock \emph{Statistics: {An} {Introduction} {Using} {R}}.
+\newblock Wiley-Blackwell, Chichester, West Sussex, England, 1 edition edition.
+\newblock ISBN 978-0-470-02298-6.
+
+\bibitem[{Cromie \emph{et~al.}(2013)Cromie, Hyma
+  \emph{et~al.}}]{cromie_genomic_2013}
+Cromie, G.A., Hyma, K.E., Ludlow, C.L., Garmendia-Torres, C., Gilbert, T.L.,
+  May, P., Huang, A.A., Dudley, A.M., and Fay, J.C. (2013).
+\newblock \enquote{Genomic sequence diversity and population structure of
+  \textit{{Saccharomyces} cerevisiae} assessed by {RAD}-seq.}
+\newblock \emph{G3 (Bethesda, Md.)}, \textbf{3}(12): 2163--2171.
+
+\bibitem[{Deak(2006)}]{deak_environmental_2006}
+Deak, T. (2006).
+\newblock \enquote{Environmental factors influencing yeasts.}
+\newblock In \enquote{Biodiversity and {Ecophysiology} of {Yeasts},} pages
+  155--174. Springer.
+
+\bibitem[{Diezmann and Dietrich(2009)}]{diezmann_saccharomyces_2009}
+Diezmann, S. and Dietrich, F.S. (2009).
+\newblock \enquote{\textit{{Saccharomyces} cerevisiae}: {Population}
+  {Divergence} and {Resistance} to {Oxidative} {Stress} in {Clinical},
+  {Domesticated} and {Wild} {Isolates}.}
+\newblock \emph{PLoS ONE}, \textbf{4}(4): e5317.
+
+\bibitem[{Fay and Benavides(2005)}]{fay_evidence_2005}
+Fay, J.C. and Benavides, J.A. (2005).
+\newblock \enquote{Evidence for {Domesticated} and {Wild} {Populations} of
+  \textit{{Saccharomyces} cerevisiae}.}
+\newblock \emph{PLoS Genetics}, \textbf{1}(1): e5.
+
+\bibitem[{Fitter and More(2002)}]{fitter_trees_2002}
+Fitter, A. and More, D. (2002).
+\newblock \emph{Trees}.
+\newblock HarperCollins, Glasgow.
+\newblock ISBN 0-00-711074-X 978-0-00-711074-2.
+
+\bibitem[{Freel \emph{et~al.}(2015)Freel, Charron
+  \emph{et~al.}}]{freel_lachancea_2015}
+Freel, K.C., Charron, G., Leducq, J.B., Landry, C.R., and Schacherer, J.
+  (2015).
+\newblock \enquote{\textit{{Lachancea} quebecensis} sp. nov., a yeast species
+  consistently isolated from tree bark in the {Canadian} province of
+  {Qu{\'e}bec}.}
+\newblock \emph{International Journal of Systematic and Evolutionary
+  Microbiology}.
+
+\bibitem[{Freel \emph{et~al.}(2014)Freel, Friedrich
+  \emph{et~al.}}]{freel_population_2014}
+Freel, K.C., Friedrich, A., Hou, J., and Schacherer, J. (2014).
+\newblock \enquote{Population genomic analysis reveals highly conserved
+  mitochondrial genomes in the yeast species \textit{{Lachancea}
+  thermotolerans}.}
+\newblock \emph{Genome Biology and Evolution}, \textbf{6}(10): 2586--2594.
+
+\bibitem[{Glushakova \emph{et~al.}(2007)Glushakova, Ivannikova
+  \emph{et~al.}}]{glushakova_massive_2007}
+Glushakova, A.M., Ivannikova, Y.V., Naumova, E.S., Chernov, I.Y., and Naumov,
+  G.I. (2007).
+\newblock \enquote{Massive isolation and identification of
+  \textit{{Saccharomyces} paradoxus} yeasts from plant phyllosphere.}
+\newblock \emph{Microbiology}, \textbf{76}(2): 205--210.
+
+\bibitem[{Goddard \emph{et~al.}(2010)Goddard, Anfang
+  \emph{et~al.}}]{goddard_distinct_2010}
+Goddard, M.R., Anfang, N., Tang, R., Gardner, R.C., and Jun, C. (2010).
+\newblock \enquote{A distinct population of \textit{{Saccharomyces} cerevisiae}
+  in {New} {Zealand}: evidence for local dispersal by insects and human-aided
+  global dispersal in oak barrels.}
+\newblock \emph{Environmental Microbiology}, \textbf{12}(1): 63--73.
+
+\bibitem[{Goddard and Greig(2015)}]{goddard_saccharomyces_2015}
+Goddard, M.R. and Greig, D. (2015).
+\newblock \enquote{\textit{{Saccharomyces} cerevisiae}: a nomadic yeast with no
+  niche?}
+\newblock \emph{FEMS yeast research}, \textbf{15}(3).
+
+\bibitem[{Green and Bohannan(2006)}]{green_spatial_2006}
+Green, J. and Bohannan, B.J.M. (2006).
+\newblock \enquote{Spatial scaling of microbial biodiversity.}
+\newblock \emph{Trends in Ecology \& Evolution}, \textbf{21}(9): 501--507.
+
+\bibitem[{Hijmans \emph{et~al.}(2005)Hijmans, Cameron
+  \emph{et~al.}}]{hijmans_very_2005}
+Hijmans, R.J., Cameron, S.E., Parra, J.L., Jones, P.G., and Jarvis, A. (2005).
+\newblock \enquote{Very high resolution interpolated climate surfaces for
+  global land areas.}
+\newblock \emph{International Journal of Climatology}, \textbf{25}(15):
+  1965--1978.
+
+\bibitem[{Hyma and Fay(2013)}]{hyma_mixing_2013}
+Hyma, K.E. and Fay, J.C. (2013).
+\newblock \enquote{Mixing of vineyard and oak-tree ecotypes of
+  \textit{{Saccharomyces} cerevisiae} in {North} {American} vineyards.}
+\newblock \emph{Molecular Ecology}, \textbf{22}(11): 2917--2930.
+
+\bibitem[{Jarnevich \emph{et~al.}(2015)Jarnevich, Stohlgren
+  \emph{et~al.}}]{jarnevich_caveats_2015}
+Jarnevich, C.S., Stohlgren, T.J., Kumar, S., Morisette, J.T., and Holcombe,
+  T.R. (2015).
+\newblock \enquote{Caveats for correlative species distribution modeling.}
+\newblock \emph{Ecological Informatics}, \textbf{29, Part 1}: 6--15.
+
+\bibitem[{Johnson \emph{et~al.}(2004)Johnson, Koufopanou
+  \emph{et~al.}}]{johnson_population_2004}
+Johnson, L.J., Koufopanou, V., Goddard, M.R., Hetherington, R., Schafer, S.M.,
+  and Burt, A. (2004).
+\newblock \enquote{Population {Genetics} of the {Wild} {Yeast}
+  \textit{{Saccharomyces} paradoxus}.}
+\newblock \emph{Genetics}, \textbf{166}(1): 43--52.
+
+\bibitem[{Kowallik \emph{et~al.}(2015)Kowallik, Miller
+  \emph{et~al.}}]{kowallik_interaction_2015}
+Kowallik, V., Miller, E., and Greig, D. (2015).
+\newblock \enquote{The interaction of \textit{{Saccharomyces} paradoxus} with
+  its natural competitors on oak bark.}
+\newblock \emph{Molecular Ecology}, \textbf{24}(7): 1596--1610.
+
+\bibitem[{Kuehne \emph{et~al.}(2007)Kuehne, Murphy
+  \emph{et~al.}}]{kuehne_allopatric_2007}
+Kuehne, H.A., Murphy, H.A., Francis, C.A., and Sniegowski, P.D. (2007).
+\newblock \enquote{Allopatric divergence, secondary contact, and genetic
+  isolation in wild yeast populations.}
+\newblock \emph{Curr Biol}, \textbf{17}(5): 407--11.
+
+\bibitem[{Kurtzman(2011)}]{kurtzman_chapter_2011-2}
+Kurtzman, C.P. (2011).
+\newblock \enquote{Chapter 80 - \textit{{Wickerhamomyces}} {Kurtzman},
+  {Robnett} \& {Basehoar}-{Powers} (2008).}
+\newblock In C.P.K.W.F. Boekhout, editor, \enquote{The {Yeasts} ({Fifth}
+  {Edition}),} pages 899--917. Elsevier, London.
+\newblock ISBN 978-0-444-52149-1.
+
+\bibitem[{Kurtzman \emph{et~al.}(2015)Kurtzman, Mateo
+  \emph{et~al.}}]{kurtzman_advances_2015}
+Kurtzman, C.P., Mateo, R.Q., Kolecka, A., Theelen, B., Robert, V., and
+  Boekhout, T. (2015).
+\newblock \enquote{Advances in yeast systematics and phylogeny and their use as
+  predictors of biotechnologically important metabolic pathways.}
+\newblock \emph{FEMS Yeast Research}, \textbf{15}(6): fov050.
+
+\bibitem[{Lachance \emph{et~al.}(2011)Lachance, Boekhout
+  \emph{et~al.}}]{lachance_chapter_2011-5}
+Lachance, M.A., Boekhout, T., Scorzetti, G., Fell, J.W., and Kurtzman, C.P.
+  (2011).
+\newblock \enquote{Chapter 90 - \textit{{Candida}} {Berkhout} (1923).}
+\newblock In C.P.K.W.F. Boekhout, editor, \enquote{The {Yeasts} ({Fifth}
+  {Edition}),} pages 987--1278. Elsevier, London.
+\newblock ISBN 978-0-444-52149-1.
+
+\bibitem[{Lachance and Kurtzman(2011)}]{lachance_chapter_2011}
+Lachance, M.A. and Kurtzman, C.P. (2011).
+\newblock \enquote{Chapter 41 - \textit{{Lachancea}} {Kurtzman} (2003).}
+\newblock In C.P.K.W.F. Boekhout, editor, \enquote{The {Yeasts} ({Fifth}
+  {Edition}),} pages 511--519. Elsevier, London.
+\newblock ISBN 978-0-444-52149-1.
+
+\bibitem[{Leducq \emph{et~al.}(2014)Leducq, Charron
+  \emph{et~al.}}]{leducq_local_2014}
+Leducq, J.B., Charron, G., Samani, P., Dub{\'e}, A.K., Sylvester, K., James,
+  B., Almeida, P., Sampaio, J.P., Hittinger, C.T., Bell, G., and Landry, C.R.
+  (2014).
+\newblock \enquote{Local climatic adaptation in a widespread microorganism.}
+\newblock \emph{Proceedings of the Royal Society B: Biological Sciences},
+  \textbf{281}(1777): 20132472.
+
+\bibitem[{Leducq \emph{et~al.}(2015)Leducq, Nielly-Thibault
+  \emph{et~al.}}]{leducq_speciation_2015}
+Leducq, J.B., Nielly-Thibault, L., Charron, G., Eberlein, C., Verta, J.P.,
+  Samani, P., Sylvester, K., Hittinger, C.T., Bell, G., and Landry, C.R.
+  (2015).
+\newblock \enquote{Speciation driven by hybridization and chromosomal
+  plasticity in a wild yeast.}
+\newblock \emph{bioRxiv}, page 027383.
+
+\bibitem[{Liti(2015)}]{liti_fascinating_2015}
+Liti, G. (2015).
+\newblock \enquote{The fascinating and secret wild life of the budding yeast
+  \textit{{S}. cerevisiae}.}
+\newblock \emph{eLife}, \textbf{4}: e05835.
+
+\bibitem[{Liti \emph{et~al.}(2009)Liti, Carter
+  \emph{et~al.}}]{liti_population_2009}
+Liti, G., Carter, D.M., Moses, A.M., Warringer, J., Parts, L., James, S.A.,
+  Davey, R.P., Roberts, I.N., Burt, A., Koufopanou, V., Tsai, I.J., Bergman,
+  C.M., Bensasson, D., O/'Kelly, M.J.T., van Oudenaarden, A., Barton, D.B.H.,
+  Bailes, E., Nguyen, A.N., Jones, M., Quail, M.A., \emph{et~al.} (2009).
+\newblock \enquote{Population genomics of domestic and wild yeasts.}
+\newblock \emph{Nature}, \textbf{458}(7236): 337--341.
+
+\bibitem[{Maganti \emph{et~al.}(2011)Maganti, Bartfai
+  \emph{et~al.}}]{maganti_ecological_2011}
+Maganti, H., Bartfai, D., and Xu, J. (2011).
+\newblock \enquote{Ecological structuring of yeasts associated with trees
+  around {Hamilton}, {Ontario}, {Canada}.}
+\newblock \emph{FEMS yeast research}, \textbf{12}: 9--19.
+
+\bibitem[{Martiny \emph{et~al.}(2006)Martiny, Bohannan
+  \emph{et~al.}}]{martiny_microbial_2006}
+Martiny, J.B.H., Bohannan, B.J.M., Brown, J.H., Colwell, R.K., Fuhrman, J.A.,
+  Green, J.L., Horner-Devine, M.C., Kane, M., Krumins, J.A., Kuske, C.R.,
+  Morin, P.J., Naeem, S., {\O}vre{\r a}s, L., Reysenbach, A.L., Smith, V.H.,
+  and Staley, J.T. (2006).
+\newblock \enquote{Microbial biogeography: putting microorganisms on the map.}
+\newblock \emph{Nature Reviews Microbiology}, \textbf{4}(2): 102--112.
+
+\bibitem[{Naumov \emph{et~al.}(1997)Naumov, Naumova
+  \emph{et~al.}}]{naumov_differentiation_1997}
+Naumov, G., Naumova, E., and Sniegowski, P. (1997).
+\newblock \enquote{Differentiation of {European} and {Far} {East} {Asian}
+  populations of \textit{{Saccharomyces} paradoxus} by allozyme analysis.}
+\newblock \emph{Int J Syst Bacteriol}, \textbf{47}(2): 341--344.
+
+\bibitem[{Passoth \emph{et~al.}(2006)Passoth, Fredlund
+  \emph{et~al.}}]{passoth_biotechnology_2006}
+Passoth, V., Fredlund, E., Druvefors, U.{\"A}., and Schn{\"u}rer, J. (2006).
+\newblock \enquote{Biotechnology, physiology and genetics of the yeast
+  \textit{{Pichia} anomala}.}
+\newblock \emph{FEMS Yeast Research}, \textbf{6}(1): 3--13.
+
+\bibitem[{Rauch and Bar-Yam(2005)}]{rauch_estimating_2005}
+Rauch, E.M. and Bar-Yam, Y. (2005).
+\newblock \enquote{Estimating the total genetic diversity of a spatial field
+  population from a sample and implications of its dependence on habitat area.}
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, \textbf{102}(28): 9826--9829.
+
+\bibitem[{Robert \emph{et~al.}(2006)Robert, Stalpers
+  \emph{et~al.}}]{robert_yeast_2006}
+Robert, V., Stalpers, J., Boekhout, T., and Tan, S.h. (2006).
+\newblock \enquote{Yeast biodiversity and culture collections.}
+\newblock In \enquote{Biodiversity and ecophysiology of yeasts,} pages 31--44.
+  Springer.
+
+\bibitem[{Salvad{\'o} \emph{et~al.}(2011)Salvad{\'o}, Arroyo-L{\'o}pez
+  \emph{et~al.}}]{salvado_temperature_2011}
+Salvad{\'o}, Z., Arroyo-L{\'o}pez, F.N., Guillam{\'o}n, J.M., Salazar, G.,
+  Querol, A., and Barrio, E. (2011).
+\newblock \enquote{Temperature {Adaptation} {Markedly} {Determines} {Evolution}
+  within the {Genus} \textit{{Saccharomyces}}.}
+\newblock \emph{Applied and Environmental Microbiology}, \textbf{77}(7):
+  2292--2302.
+
+\bibitem[{Sampaio and Gon{\c c}alves(2008)}]{sampaio_natural_2008}
+Sampaio, J.P. and Gon{\c c}alves, P. (2008).
+\newblock \enquote{Natural {Populations} of \textit{{Saccharomyces}
+  kudriavzevii} in {Portugal} {Are} {Associated} with {Oak} {Bark} and {Are}
+  {Sympatric} with \textit{{S}. cerevisiae} and \textit{{S}. paradoxus}.}
+\newblock \emph{Applied and Environmental Microbiology}, \textbf{74}(7):
+  2144--2152.
+
+\bibitem[{Sl{\'a}vikov{\'a} \emph{et~al.}(2007)Sl{\'a}vikov{\'a},
+  Vadkertiov{\'a} \emph{et~al.}}]{slavikova_yeasts_2007}
+Sl{\'a}vikov{\'a}, E., Vadkertiov{\'a}, R., and Vr{\'a}nov{\'a}, D. (2007).
+\newblock \enquote{Yeasts colonizing the leaf surfaces.}
+\newblock \emph{Journal of Basic Microbiology}, \textbf{47}(4): 344--350.
+
+\bibitem[{Sniegowski \emph{et~al.}(2002)Sniegowski, Dombrowski
+  \emph{et~al.}}]{sniegowski_saccharomyces_2002}
+Sniegowski, P.D., Dombrowski, P.G., and Fingerman, E. (2002).
+\newblock \enquote{\textit{{Saccharomyces} cerevisiae} and
+  \textit{{Saccharomyces} paradoxus} coexist in a natural woodland site in
+  {North} {America} and display different levels of reproductive isolation from
+  {European} conspecifics.}
+\newblock \emph{FEMS Yeast Research}, \textbf{1}(4): 299--306.
+
+\bibitem[{Sutton(1990)}]{sutton_trees_1990}
+Sutton, D.A. (1990).
+\newblock \emph{Trees of {Britain} and {Europe}}.
+\newblock Kingfisher, London.
+\newblock ISBN 0-86272-523-2 978-0-86272-523-5.
+
+\bibitem[{Sweeney \emph{et~al.}(2004)Sweeney, Kuehne
+  \emph{et~al.}}]{sweeney_sympatric_2004}
+Sweeney, J.Y., Kuehne, H.A., and Sniegowski, P.D. (2004).
+\newblock \enquote{Sympatric natural \textit{{Saccharomyces} cerevisiae} and
+  \textit{{S}. paradoxus} populations have different thermal growth profiles.}
+\newblock \emph{FEMS Yeast Research}, \textbf{4}(4-5): 521--525.
+
+\bibitem[{Sylvester \emph{et~al.}(2015)Sylvester, Wang
+  \emph{et~al.}}]{sylvester_temperature_2015}
+Sylvester, K., Wang, Q.M., James, B., Mendez, R., Hulfachor, A.B., and
+  Hittinger, C.T. (2015).
+\newblock \enquote{Temperature and host preferences drive the diversification
+  of {Saccharomyces} and other yeasts: a survey and the discovery of eight new
+  yeast species.}
+\newblock \emph{FEMS yeast research}, \textbf{15}(3): fov002.
+
+\bibitem[{Tanghe \emph{et~al.}(2005)Tanghe, Carbrey
+  \emph{et~al.}}]{tanghe_aquaporin_2005}
+Tanghe, A., Carbrey, J.M., Agre, P., Thevelein, J.M., and Van~Dijck, P. (2005).
+\newblock \enquote{Aquaporin expression and freeze tolerance in
+  \textit{{Candida} albicans}.}
+\newblock \emph{Applied and Environmental Microbiology}, \textbf{71}(10):
+  6434--6437.
+
+\bibitem[{Taylor \emph{et~al.}(2006)Taylor, Turner
+  \emph{et~al.}}]{taylor_eukaryotic_2006}
+Taylor, J.W., Turner, E., Townsend, J.P., Dettman, J.R., and Jacobson, D.
+  (2006).
+\newblock \enquote{Eukaryotic microbes, species recognition and the geographic
+  limits of species: examples from the kingdom {Fungi}.}
+\newblock \emph{Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, \textbf{361}(1475): 1947--1963.
+
+\bibitem[{Wang \emph{et~al.}(2012)Wang, Liu
+  \emph{et~al.}}]{wang_surprisingly_2012}
+Wang, Q.M., Liu, W.Q., Liti, G., Wang, S.A., and Bai, F.Y. (2012).
+\newblock \enquote{Surprisingly diverged populations of \textit{{Saccharomyces}
+  cerevisiae} in natural environments remote from human activity.}
+\newblock \emph{Molecular Ecology}, \textbf{21}(22): 5404--5417.
+
+\bibitem[{Will \emph{et~al.}(2010)Will, Kim
+  \emph{et~al.}}]{will_incipient_2010}
+Will, J.L., Kim, H.S., Clarke, J., Painter, J.C., Fay, J.C., and Gasch, A.P.
+  (2010).
+\newblock \enquote{Incipient {Balancing} {Selection} through {Adaptive} {Loss}
+  of {Aquaporins} in {Natural} \textit{{Saccharomyces} cerevisiae}
+  {Populations}.}
+\newblock \emph{PLoS Genet}, \textbf{6}(4): e1000893.
+
+\bibitem[{Zhang \emph{et~al.}(2010)Zhang, Skelton
+  \emph{et~al.}}]{zhang_saccharomyces_2010}
+Zhang, H., Skelton, A., Gardner, R.C., and Goddard, M.R. (2010).
+\newblock \enquote{\textit{{Saccharomyces} paradoxus} and
+  \textit{{Saccharomyces} cerevisiae} reside on oak trees in {New} {Zealand}:
+  evidence for migration from {Europe} and interspecies hybrids.}
+\newblock \emph{FEMS Yeast Research}, \textbf{10}(7): 941--947.
+
+\end{thebibliography}

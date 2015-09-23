@@ -1,0 +1,80 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: robinson_etal.distr.aux
+The style file: final.bst
+format.doi is an unknown function---line 1032 of file final.bst
+format.doi is an unknown function---line 1048 of file final.bst
+format.doi is an unknown function---line 1090 of file final.bst
+format.doi is an unknown function---line 1119 of file final.bst
+format.issn is an unknown function---line 1146 of file final.bst
+format.doi is an unknown function---line 1152 of file final.bst
+format.doi is an unknown function---line 1169 of file final.bst
+format.doi is an unknown function---line 1187 of file final.bst
+format.doi is an unknown function---line 1202 of file final.bst
+format.doi is an unknown function---line 1219 of file final.bst
+format.issn is an unknown function---line 1242 of file final.bst
+format.doi is an unknown function---line 1243 of file final.bst
+format.doi is an unknown function---line 1261 of file final.bst
+format.doi is an unknown function---line 1274 of file final.bst
+Database file #1: ../../../labbibtex/bensassonlab.bib.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You can't pop an empty literal stack for entry bardgett_biology_2005
+while executing---line 1571 of file final.bst
+You can't pop an empty literal stack for entry crawley_statistics:_2005
+while executing---line 1571 of file final.bst
+You can't pop an empty literal stack for entry deak_environmental_2006
+while executing---line 1571 of file final.bst
+You can't pop an empty literal stack for entry fitter_trees_2002
+while executing---line 1571 of file final.bst
+You can't pop an empty literal stack for entry kurtzman_chapter_2011-2
+while executing---line 1571 of file final.bst
+You can't pop an empty literal stack for entry lachance_chapter_2011-5
+while executing---line 1571 of file final.bst
+You can't pop an empty literal stack for entry lachance_chapter_2011
+while executing---line 1571 of file final.bst
+You can't pop an empty literal stack for entry robert_yeast_2006
+while executing---line 1571 of file final.bst
+You can't pop an empty literal stack for entry sutton_trees_1990
+while executing---line 1571 of file final.bst
+You've used 53 entries,
+            3027 wiz_defined-function locations,
+            972 strings with 18637 characters,
+and the built_in function-call counts, 38343 in all, are:
+= -- 3082
+> -- 1910
+< -- 25
++ -- 927
+- -- 510
+* -- 2953
+:= -- 5432
+add.period$ -- 225
+call.type$ -- 53
+change.case$ -- 371
+chr.to.int$ -- 53
+cite$ -- 53
+duplicate$ -- 2793
+empty$ -- 2742
+format.name$ -- 677
+if$ -- 7715
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 611
+newline$ -- 280
+num.names$ -- 218
+pop$ -- 1164
+preamble$ -- 1
+purify$ -- 311
+quote$ -- 0
+skip$ -- 1302
+stack$ -- 0
+substring$ -- 1765
+swap$ -- 1725
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 465
+warning$ -- 0
+while$ -- 251
+width$ -- 0
+write$ -- 720
+(There were 23 error messages)

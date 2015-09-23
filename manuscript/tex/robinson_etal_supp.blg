@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: robinson_etal_supp.aux
+The style file: final.bst
+format.doi is an unknown function---line 1032 of file final.bst
+format.doi is an unknown function---line 1048 of file final.bst
+format.doi is an unknown function---line 1090 of file final.bst
+format.doi is an unknown function---line 1119 of file final.bst
+format.issn is an unknown function---line 1146 of file final.bst
+format.doi is an unknown function---line 1152 of file final.bst
+format.doi is an unknown function---line 1169 of file final.bst
+format.doi is an unknown function---line 1187 of file final.bst
+format.doi is an unknown function---line 1202 of file final.bst
+format.doi is an unknown function---line 1219 of file final.bst
+format.issn is an unknown function---line 1242 of file final.bst
+format.doi is an unknown function---line 1243 of file final.bst
+format.doi is an unknown function---line 1261 of file final.bst
+format.doi is an unknown function---line 1274 of file final.bst
+Database file #1: ../../../labbibtex/bensassonlab.bib.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You can't pop an empty literal stack for entry crawley_statistics:_2005
+while executing---line 1571 of file final.bst
+You can't pop an empty literal stack for entry lachance_chapter_2011-5
+while executing---line 1571 of file final.bst
+You can't pop an empty literal stack for entry venables_modern_2002
+while executing---line 1571 of file final.bst
+You've used 16 entries,
+            3027 wiz_defined-function locations,
+            737 strings with 9630 characters,
+and the built_in function-call counts, 12234 in all, are:
+= -- 943
+> -- 680
+< -- 6
++ -- 329
+- -- 181
+* -- 945
+:= -- 1725
+add.period$ -- 66
+call.type$ -- 16
+change.case$ -- 111
+chr.to.int$ -- 16
+cite$ -- 16
+duplicate$ -- 890
+empty$ -- 844
+format.name$ -- 227
+if$ -- 2459
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 210
+newline$ -- 90
+num.names$ -- 66
+pop$ -- 383
+preamble$ -- 1
+purify$ -- 94
+quote$ -- 0
+skip$ -- 433
+stack$ -- 0
+substring$ -- 500
+swap$ -- 563
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 138
+warning$ -- 0
+while$ -- 74
+width$ -- 0
+write$ -- 223
+(There were 17 error messages)
