@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.6.30)  23 SEP 2015 13:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.6.30)  24 SEP 2015 13:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1368,14 +1368,14 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
  [28
 
 ]
-[29] [30]) [31] (../figs_tables/Table1.tsv)
+[29] [30]) [31] (../figs_tables/Table1.tex)
 Overfull \hbox (30.91525pt too wide) in paragraph at lines 286--297
  [] 
  []
 
 [32
 
-] (../figs_tables/Table2.tsv
+] (../figs_tables/Table2.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--2
 []|\OT1/ptm/m/n/12 Mean
  []
@@ -1471,8 +1471,8 @@ LaTeX Warning: There were multiply-defined labels.
 ### semi simple group (level 1) entered at line 303 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 28113 strings out of 493089
- 551633 string characters out of 6134842
+ 28112 strings out of 493089
+ 551629 string characters out of 6134842
  571408 words of memory out of 5000000
  31063 multiletter control sequences out of 15000+600000
  54831 words of font info for 126 fonts, out of 8000000 for 9000
