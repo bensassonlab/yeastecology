@@ -3,9 +3,9 @@ Data, field photos and manuscripts on yeast ecology
 
 The [manuscript](https://github.com/bensassonlab/yeastecology/tree/master/manuscript) directory contains LaTeX files and pdfs for the submission to bioRxiv.
 
-The [fieldphotos](../fieldphotos) directory contains photographs of oak trees and fig trees sampled for yeast from 2006-2011. Used together with the longitude and latitude coordinates, these can be used to identify host plants, so that it is possible for others to resample the same host individuals. These photos were taken by Ana Pinharanda, Douda Bensasson and Dan Smith. 
+The [fieldphotos](https://github.com/bensassonlab/yeastecology/tree/master/fieldphotos) directory contains photographs of oak trees and fig trees sampled for yeast from 2006-2011. Used together with the longitude and latitude coordinates, these can be used to identify host plants, so that it is possible for others to resample the same host individuals. These photos were taken by Ana Pinharanda, Douda Bensasson and Dan Smith. 
 
-The **data** directory contains the following:
+The [data](https://github.com/bensassonlab/yeastecology/tree/master/data) directory contains the following:
 
 - All 371 DNA sequences analysed in the Robinson et al manuscript are in **Robinson_etalAllSeqs.fa**. Most of these (300) were submitted to GenBank (KT206983-KT207282). Bases with phred-scaled score below 40 are shown as "N".
 
